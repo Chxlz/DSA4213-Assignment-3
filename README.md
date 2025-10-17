@@ -62,7 +62,7 @@ wandb.login("YOUR_WANDB_KEY")
 ---
 ## How to Reproduce
 Clone this repository or open the notebook in Google Colab.
-Run all cells — the dataset (shawhin/phishing-site-classification) loads automatically from Hugging Face.
+Run all cells — the dataset (`shawhin/phishing-site-classification`) loads automatically from Hugging Face.
 
 The notebook will:
 Train the models (Full, LoRA 4/8/16)
